@@ -1,0 +1,2 @@
+# YOLO_LearningDirectory
+YOLOの学習用ディレクトリのプリセットです。学習用データセットは付属していません。
